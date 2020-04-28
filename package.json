@@ -1,0 +1,20 @@
+{
+  "name": "@bughiding/hello-npm",
+  "version": "1.0.0",
+  "description": "hello npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/BugHiding/hello-npm.git",
+  "keywords": [
+    "hello",
+    "npm"
+  ],
+  "author": "BugHiding <609228186@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BugHiding/hello-npm/issues"
+  },
+  "homepage": "https://github.com/BugHiding/hello-npm#readme"
+}
