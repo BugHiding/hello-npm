@@ -1,1 +1,3 @@
-console.log("hello npm");
+exports.sayHello = function () {
+  console.log("hello npm");
+} 
